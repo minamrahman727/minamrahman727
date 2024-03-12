@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @minamrahman
+- 👋 Hi, I’m <h2>@minamrahman</h2>
 - 👀 I’m interested in ... software development and generative AI development
 - 🌱 I’m currently learning ... generative AI metaverse and blockchain
 - 💞️ I’m looking to collaborate on ...linked in
