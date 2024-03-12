@@ -1,11 +1,14 @@
 - 👋 Hi, I’m @minamrahman
-- 👀 I’m interested in ... software development, photography
+- 👀 I’m interested in ... software development and generative AI development
 - 🌱 I’m currently learning ... generative AI metaverse and blockchain
 - 💞️ I’m looking to collaborate on ...linked in
-- 📫 How to reach me ... phone: 03369289269
+- 📫 How to reach me ...
+-                         phone: 03369289269
 -                         email: mianamrahman727@gmail.com
 -                         linkedin: minamrahman
 -                         inatagram: @minam_78pak
+- check out my repositories...
+-                          https://github.com/minamrahman727?tab=repositories
 -                         
 
 <!---
