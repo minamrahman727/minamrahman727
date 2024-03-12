@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...linked in
 - 📫 How to reach me ...
 -                         phone: 03369289269
-- <a href="tel:03369289269">phone: 03369289269</a>
+- <a href="tel:+92-336-9289269">phone: 03369289269</a>
 -                         email: mianamrahman727@gmail.com
 - <a href="mailto:minamrahman727@gmail.com"> email: mianamrahman727@gmail.com</a>
 -                         linkedin: minamrahman
