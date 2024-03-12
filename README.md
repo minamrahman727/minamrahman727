@@ -4,10 +4,7 @@
 - 💞️ I’m looking to collaborate on ...linked in
 - 📫 How to reach me ...
 -                         phone: 03369289269
-- 
--                         email: mianamrahman727@gmail.com
--                         <a href="mailto:minamrahman727@gmail.com"> email: mianamrahman727@gmail.com</a>
--                         linkedin: minamrahman
+-  <a href="mailto:minamrahman727@gmail.com">email: mianamrahman727@gmail.com</a>
 - <button><a href="https://www.linkedin.com/in/syed-minam-ur-rehman/">linkedin</a></button>
 -                         inatagram: @minam_78pak
 - check out my repositories...
