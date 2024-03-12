@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 -                         phone: 03369289269
 -  <a href="mailto:minamrahman727@gmail.com">email: mianamrahman727@gmail.com</a>
-- <button><a href="https://www.linkedin.com/in/syed-minam-ur-rehman/">linkedin</a></button>
+- <button><a href="https://www.linkedin.com/in/syed-minam-ur-rehman/">linkedin</a>
 -                         inatagram: @minam_78pak
 - check out my repositories...
 -                          https://github.com/minamrahman727?tab=repositories
