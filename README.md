@@ -8,13 +8,16 @@ My other role is as CEO of Zarak, As an entrepreneur, I believe that I will play
 
 🛠️ My Skills:
 
-Languages: ```Tyscript, Python, C++```
+Languages: ```Tyscript, Python, C++``` 
+
 Frameworks/Libraries: ```React.js, Node.js, Next.js, Poetry```
+
 Tools: ```Git, Docker, VS Code, Jupyter Notebook, dev C++```
+
 Other: ```HTML/CSS, FastAPI, Postgres, NeonDB```
 🌱 What I'm Learning:
 
-currently, I am a student of @ziaukhan <a href="https://github.com/ziaukhan">Zia U Khan<a> and student of _*PIAIC*_ in ```Batch 46``` 
+currently, I am a student of <a href="https://github.com/ziaukhan">Zia U Khan<a> and student of _**PIAIC**_ in ```Batch 46``` 
 I'm **COO <sup>&</sup> Co-Founder** of ZARAK- and Founder of ZARAK-Arabia
 🔭 My Projects:
 
@@ -28,12 +31,12 @@ Project 3: Brief description
 
 I'm always eager to collaborate, learn from others, and share knowledge. Feel free to reach out to me through:
 
-<a href="https://www.linkedin.com/in/syed-minam-ur-rehman/">linkedin<a>
-<a href="https://www.instagram.com/syedminamurrehman/">Instagram<a>
-<a href="https://www.facebook.com/profile.php?id=100078720140776">facebook<a>
-<a href="https://www.pinterest.com/minamrahman/_created/">pinterest<a>
-<a href="https://www.zarak.company.site/">zarak.pk<a>
-<a href="https://www.zarakarabia.company.site/">zarak.ae<a>
+-<a href="https://www.linkedin.com/in/syed-minam-ur-rehman/">linkedin<a>
+-<a href="https://www.instagram.com/syedminamurrehman/">Instagram<a>
+-<a href="https://www.facebook.com/profile.php?id=100078720140776">facebook<a>
+-<a href="https://www.pinterest.com/minamrahman/_created/">pinterest<a>
+-<a href="https://www.zarak.company.site/">zarak.pk<a>
+-<a href="https://www.zarakarabia.company.site/">zarak.ae<a>
 💬 Fun Fact:
 
 When I'm not coding, you can find me exploring the internet, indulging in a good book, or experimenting with the new feilds. Life's all about balance, right?
