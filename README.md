@@ -33,11 +33,17 @@ Project 3: Brief description
 I'm always eager to collaborate, learn from others, and share knowledge. Feel free to reach out to me through:
 
 -<a href="https://www.linkedin.com/in/syed-minam-ur-rehman/">linkedin<a>
+
 -<a href="https://www.instagram.com/syedminamurrehman/">Instagram<a>
+
 -<a href="https://www.facebook.com/profile.php?id=100078720140776">facebook<a>
+
 -<a href="https://www.pinterest.com/minamrahman/_created/">pinterest<a>
+
 -<a href="https://www.zarak.company.site/">zarak.pk<a>
+
 -<a href="https://www.zarakarabia.company.site/">zarak.ae<a>
+
 💬 Fun Fact:
 
 When I'm not coding, you can find me exploring the internet, indulging in a good book, or experimenting with the new feilds. Life's all about balance, right?
