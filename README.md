@@ -26,4 +26,5 @@ You can reach me through:
    <li>Github: <a href="www.github.com/minamrahman727" class="text-gray-700">minamrahman727</a></li>
    <li>LinkedIn: <a href="https://www.linkedin.com/in/syed-minam-ur-rehman/" class="text-gray-700">Syed Minam Ur Rehman</a></li>
 </ul>
- 
+
+ hi I'm ```minam```
