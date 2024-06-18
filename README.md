@@ -1,51 +1,29 @@
-👋 Hello, fellow developers! Welcome to my GitHub profile!
-
-🚀 About Me:
-
-I'm Syed Minam Ur Rehman, a passionate coder on a mission to turn ideas into reality through the power of technology. With a deep love for problem-solving and a knack for creativity, I thrive in the dynamic world of software development.
-My other role is as CEO of Zarak, As an entrepreneur, I believe that I will play my role in creating employment and eradicating poverty.
-
-
-🛠️ My Skills:
-
-Languages: ```Tyscript, Python, C++``` 
-
-Frameworks/Libraries: ```React.js, Node.js, Next.js, Poetry```
-
-Tools: ```Git, Docker, VS Code, Jupyter Notebook, dev C++```
-
-Other: ```HTML/CSS, FastAPI, Postgres, NeonDB```
-
-🌱 What I'm Learning:
-
-currently, I am a student of <a href="https://github.com/ziaukhan">Zia U Khan<a> and student of _**PIAIC**_ in ```Batch 46``` 
-I'm **COO <sup>&</sup> Co-Founder** of ZARAK- and Founder of ZARAK-Arabia
-🔭 My Projects:
-
-Here are some projects I'm proud of:
-
-Project 1: زاراك
-_As a pivotal part of the Zarak team, my role is multifaceted and dynamic. From curating exquisite collections that celebrate Pakistani culture and tradition to fostering collaborations with local artisans and designers, I'm dedicated to ensuring that every aspect of the Zarak experience embodies elegance, sophistication, and authenticity. With a passion for promoting Pakistani fashion on a global stage, I strive to elevate the brand's presence and showcase the beauty of our heritage through innovative initiatives and strategic partnerships. At Zarak, I'm not just a team member—I'm a guardian of tradition, a champion of creativity, and a catalyst for positive change in the world of fashion._
-Project 2: Brief description
-Project 3: Brief description
-📫 Let's Connect:
-
-I'm always eager to collaborate, learn from others, and share knowledge. Feel free to reach out to me through:
-
--<a href="https://www.linkedin.com/in/syed-minam-ur-rehman/">linkedin<a>
-
--<a href="https://www.instagram.com/syedminamurrehman/">Instagram<a>
-
--<a href="https://www.facebook.com/profile.php?id=100078720140776">facebook<a>
-
--<a href="https://www.pinterest.com/minamrahman/_created/">pinterest<a>
-
--<a href="https://www.zarak.company.site/">zarak.pk<a>
-
--<a href="https://www.zarakarabia.company.site/">zarak.ae<a>
-
-💬 Fun Fact:
-
-When I'm not coding, you can find me exploring the internet, indulging in a good book, or experimenting with the new feilds. Life's all about balance, right?
-
-🌟 Thanks for stopping by! Let's build something amazing together! 🌟
+Hi there
+My name is Syed Minam ur Rehman, and I am an aspiring AI engineer with a strong passion for technology and programming. Born and raised in Karachi, I come from a middle-class family that has always encouraged my curiosity and drive for learning. My journey into the world of programming began at a young age, and I have since developed expertise in several programming languages and frameworks, including TypeScript, HTML, JavaScript, CSS, Tailwind CSS, Next.js, React.js, C++, and Python (Conda).
+I completed my matriculation in March 2024 and have been pursuing further studies in Generative Applied Engineering at PIAIC since July 2023. In addition to my academic pursuits, I have also undertaken projects such as developing a CLI-based ATM system using Node.js and running a fashion brand named Zarak.
+With a strong foundation in both front-end and back-end development, I am committed to leveraging my skills to contribute to innovative projects and drive technological advancements. I am always eager to learn new technologies and apply my knowledge to solve real-world problems.
+Feel free to explore my portfolio to learn more about my work and how to get in touch with me.
+<h3>Education</h3> 
+I began my formal education in 2011 when I was admitted to Programmer School in class Nursery. This foundation laid the groundwork for my academic development and sparked my interest in technology and programming. I progressed through the school, culminating in my completion of matriculation in March 2024. For ninth and tenth grade, I studied at MAK Collegiate (Up More Campus), where I further honed my academic skills and deepened my interest in various subjects. In addition to my school education, I have been enhancing my knowledge and skills by studying at the Presidential Initiative for Artificial Intelligence and Computing (PIAIC) since July 2023. At PIAIC, I am focused on Generative Applied Engineering, which is helping me deepen my understanding of AI and related technologies.
+<h3>Skils</h3>
+<ul>
+  <li>TypeScript</li>
+  <li>HTML</li>
+  <li>JavaScript</li>
+  <li>CSS (Cascading Style Sheets)</li>
+  <li>Tailwind CSS</li>
+  <li>Next.js</li>
+  <li>react.js</li>
+  <li>C++</li>
+  <li>UI/UX design</li>
+</ul>
+<h3>Contact</h3>
+You can reach me through:
+<ul>
+  <li>Email:<a href="mailto:minamrahman727@gmail.com" class="text-gray-700">minamrahman727@gmail.com</a></li>
+  <li>Instagram: <a href="www.instagram.com/syedminamurrehman" class="text-gray-700">سید منعام الرحمٰن</a></li>
+   <li>Instagram: <a href="www.instagram.com/s.m.__.rehman" class="text-gray-700">سید منعام الرحمٰن</a></li>
+   <li>Github: <a href="www.github.com/minamrahman727" class="text-gray-700">minamrahman727</a></li>
+   <li>LinkedIn: <a href="https://www.linkedin.com/in/syed-minam-ur-rehman/" class="text-gray-700">Syed Minam Ur Rehman</a></li>
+</ul>
+ 
