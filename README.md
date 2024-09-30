@@ -1,3 +1,5 @@
+Hi there,
+I am ```Syed Minam Ur Rehman``` <br/>
 Motivated and aspiring web developer with a foundational
  understanding of HTML, CSS, JavaScript, and TypeScript. Familiar with
  modern frameworks like Next.js and Tailwind CSS for building
